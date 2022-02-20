@@ -1,0 +1,17 @@
+﻿  AlgFinal.cpp
+C:\Users\antho\source\repos\AlgFinal\AlgFinal.cpp(51,17): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\antho\source\repos\AlgFinal\AlgFinal.cpp(61,84): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\antho\source\repos\AlgFinal\AlgFinal.cpp(70,84): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  AlgFinal.vcxproj -> C:\Users\antho\source\repos\AlgFinal\x64\Debug\AlgFinal.exe
